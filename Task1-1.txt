@@ -1,0 +1,13 @@
+Each contact has a first name, last name, company field, job title field, zero or more phone numbers, and zero or more email addresses.
+
+Each email address has an actual address field and a label.
+
+Each phone number has a field for the number and a field for a label.
+
+User of the application can search through the contacts.
+
+User can add, update, and delete contacts.
+
+Similar contacts should be merged together.
+
+
